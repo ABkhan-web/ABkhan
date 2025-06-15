@@ -1,1 +1,3 @@
-ABkhan
+git remote add origin https://github.com/ABkhan-web/AB.git
+git branch -M main
+git push -u origin main
